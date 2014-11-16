@@ -12,7 +12,8 @@ We will work to write up descriptions (and pseudocode, where applicable) for eac
 category and algorithm (found in the appropriate README.md file), but feel free to 
 add your own or give suggestions.
 
-There are no restrictions on the language used, so use whatever you prefer. 
+There are no restrictions on the language used, so use whatever you prefer.
+Java, Python, Ruby, C, C++, PHP, it doesn't matter.
 
 If an algorithm already has an implementation in one language, it is encouraged
 to write another implementation in another language.
