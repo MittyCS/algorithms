@@ -26,7 +26,7 @@ def linear_search(item_to_find, item_list):
         print "Item was found in list at position " + str(item_index) + "."
 
 
-#Linear search case 1
+'''Linear search case 1'''
 item_list = [4, 7, 12, 44, 2]
 item_to_find = 12
 linear_search(item_to_find, item_list)
@@ -36,7 +36,7 @@ Function output:
 Item was found in list at position 2.
 '''
 
-#Linear search case 1
+'''Linear search case 2'''
 item_list = [12,42,8,95]
 item_to_find = 120
 linear_search(item_to_find, item_list)
