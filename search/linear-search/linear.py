@@ -1,0 +1,17 @@
+'''
+Function: find_item_in_list
+Input: item_to_find (variable), item_list (list)
+Output: Item index if found, or -1 if the item is not in the list
+'''
+
+#Find item in a list
+def find_item_in_list(item_to_find, item_list):
+  #Iterate through list
+  for i in range(len(item_list)):
+    #Check if current item is what we are looking for
+    if (item_list[i] == item_to_find):
+      #Return index of item
+      return i
+  #Since item was never found, return -1
+  return -1
+    
